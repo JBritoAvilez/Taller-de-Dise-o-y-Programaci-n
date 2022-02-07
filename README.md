@@ -8,5 +8,5 @@ En estas seis clases llamadas:
 - Spaceships
 - UnmannedSpaceShips
 
-en las cuales podremos observar una clase Abtracta llamada Spacehips
+En las cuales podremos observar una clase Abtracta llamada Spacehips
 y una Iterfaz llamada Flight de las cuales se implementaran los metodos
